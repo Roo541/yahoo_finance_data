@@ -47,7 +47,7 @@ df_final = pd.DataFrame(list(zip(ask, bid, theoretical,)), columns = ['Ask', 'Bi
 
 print (df_final[-100:-50])
 
-
+print("hello new git world!")
 
 
 
